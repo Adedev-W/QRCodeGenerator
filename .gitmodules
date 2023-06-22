@@ -1,0 +1,6 @@
+[submodule "git"]
+	path = git
+	url = https://git.code.sf.net/p/phpqrcode/git
+[submodule "phpqrcode-git"]
+	path = phpqrcode-git
+	url = https://git.code.sf.net/p/phpqrcode/git
